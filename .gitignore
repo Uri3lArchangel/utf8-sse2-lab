@@ -1,0 +1,4 @@
+*.o
+/utf8check
+/utf8test
+/utf8bench
